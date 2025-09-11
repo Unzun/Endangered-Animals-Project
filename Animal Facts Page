@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Animal Facts</title>
+</head>
+
+<body>
+    <header>
+        <h1><img src="Copilot_Endangered_Wildlife_Logo.png" alt="logo" width="80">&nbsp; Animal Facts</h1>
+        <h2>Here are a few species that are currently endangered:</h2>
+        <nav>
+            <ul>
+                <li>Home, Animal Facts, Contact Us</li>
+            </ul>
+        </nav>
+    </header>
+
+    <section>
+        <img src="Leatherback.jpg" alt="leatherback" width="350">
+        <p>Even though the leatherback sea turtle has the widest global  distribution of any reptile, its population has been <br>
+            declining in many  parts of the world. One of the greatest threats comes from being  inadvertently captured in fishing 
+            gear.</p>
+        <img src="axolotol.jpg" alt="axolotl" width="400">
+        <p>The axolotl is severely endangered due to habitat loss, pollution, and the introduction of invasive fish that will prey <br>
+            on it. Their presence in the canals of Mexico City is currently being monitored through the use of environmental DNA 
+            (eDNA). </p>
+        <img src="Panda.jpg" alt="panda" width="300">
+        <p>The giant panda was nearly driven to extinction through habitat loss  and poaching; an estimated 1,800 still reside <br>
+            in the wild today. A system of nature reserves has been established in China to help maintain panda populations and 
+            habitats. </p>
+    </section>
+
+     <footer>
+        <p>&copy; 2025 Copyright. All Rights Reserved</p>
+    </footer>
+</body>
+
+</html>
