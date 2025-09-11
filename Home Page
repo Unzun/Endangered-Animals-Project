@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Endangered Wildlife Awareness</title>
+</head>
+
+<body>
+    <header>
+        <h1><img src="Copilot_Endangered_Wildlife_Logo.png" alt="logo" width="80">&nbsp; Endangered Wildlife Awareness</h1>
+        <h2>To raise awareness about endangered wildlife and the importance of conservation.</h2>
+        <nav>
+            <ul>
+                <li>Home, Animal Facts, Contact Us</li>
+            </ul>
+        </nav>
+    </header>
+
+    <section>
+        <p>Endangered species are those that are at risk of becoming extinct due to various factors including habitat loss, poaching and climate change.</p>
+        <img src="Copilot_Endangered_Wildlife.png" alt="endangered wildlife" width="300">
+        <p>There are many organizations and initiatives working towards protecting endangered wildlife and their habitats. </p>
+        <img src="Copilot_Green_Sustainability.png" alt="sustainability" width="200">
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Copyright. All Rights Reserved</p>
+    </footer>
+</body>
+
+</html>
