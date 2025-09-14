@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
+<header>
     <meta charset="UTF-8">
     <title>Contact Us</title>
     <img src="Copilot_Endangered_Wildlife_Logo.png" alt="logo" width="80">
@@ -10,7 +10,7 @@
                 <li>Home, Animal Facts</li>
             </ul>
         </nav>
-</head>
+</header>
 
 <body>    
     <section>
