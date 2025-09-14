@@ -8,13 +8,14 @@
 
 <body>
     <header>
-        <h1><img src="Copilot_Endangered_Wildlife_Logo.png" alt="logo" width="80">&nbsp; Endangered Wildlife Awareness</h1>
-        <h2>To raise awareness about endangered wildlife and the importance of conservation.</h2>
         <nav>
+            <img src="Copilot_Endangered_Wildlife_Logo.png" alt="logo" width="80">
             <ul>
-                <li>Home, Animal Facts, Contact Us</li>
+                <li>Animal Facts, Contact Us</li>
             </ul>
         </nav>
+        <h1>Endangered Wildlife Awareness</h1>
+        <h2>To raise awareness about endangered wildlife and the importance of conservation.</h2>
     </header>
 
     <section>

@@ -4,19 +4,15 @@
 <head>
     <meta charset="UTF-8">
     <title>Contact Us</title>
-</head>
-
-<body>
-    <header>
-        <h1><img src="Copilot_Endangered_Wildlife_Logo.png" alt="logo" width="80">&nbsp; Contact Us</h1>
-        <h2>Please sign up for our monthly newsletter and/or provide us with feedback!</h2>
-        <nav>
+    <img src="Copilot_Endangered_Wildlife_Logo.png" alt="logo" width="80">
+    <nav>
             <ul>
-                <li>Home, Animal Facts, Contact Us</li>
+                <li>Home, Animal Facts</li>
             </ul>
         </nav>
-    </header>
-    
+</head>
+
+<body>    
     <section>
         <h2>Contact Form</h2>
             <form action="submit" method="post">
@@ -64,4 +60,7 @@
     </section>
 </body>
 
+<footer>
+    <p>&copy; 2025 Copyright. All Rights Reserved</p>
+</footer>
 </html>
