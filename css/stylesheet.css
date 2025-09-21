@@ -218,3 +218,33 @@ footer p {
     margin-right: 8px;
     margin-bottom: 10px;
 }
+
+/* Submit and Reset buttons */
+form input[type="submit"] {
+    padding: 10px 20px;
+    font-weight: bold;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+/* Green "Send" button */
+form input[type="submit"]:first-of-type {
+    background-color: #4caf50;
+    color: white;
+}
+
+form input[type="submit"]:first-of-type:hover {
+    background-color: #388e3c;
+}
+
+/* Red "Reset Form" button */
+form input[type="submit"]:last-of-type {
+    background-color: #f44336;
+    color: white;
+}
+
+form input[type="submit"]:last-of-type:hover {
+    background-color: #d32f2f;
+}
