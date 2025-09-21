@@ -220,7 +220,7 @@ footer p {
 }
 
 /* Submit and Reset buttons */
-form input[type="submit"] {
+#contact-page form input[type="submit"] {
     padding: 10px 20px;
     font-weight: bold;
     border: none;
@@ -230,21 +230,21 @@ form input[type="submit"] {
 }
 
 /* Green "Send" button */
-form input[type="submit"]:first-of-type {
+#contact-page form input[type="submit"]:first-of-type {
     background-color: #4caf50;
     color: white;
 }
 
-form input[type="submit"]:first-of-type:hover {
+#contact-page form input[type="submit"]:first-of-type:hover {
     background-color: #388e3c;
 }
 
 /* Red "Reset Form" button */
-form input[type="submit"]:last-of-type {
+#contact-page form input[type="submit"]:last-of-type {
     background-color: #f44336;
     color: white;
 }
 
-form input[type="submit"]:last-of-type:hover {
+#contact-page form input[type="submit"]:last-of-type:hover {
     background-color: #d32f2f;
 }
