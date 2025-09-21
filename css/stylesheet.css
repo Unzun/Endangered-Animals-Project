@@ -198,3 +198,23 @@ footer p {
     margin-bottom: 5px;
     font-weight: bold;
 }
+
+#contact-page form input[type="text"], form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+}
+
+/* Radio buttons */
+#contact-page form p {
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+#contact-page form input[type="radio"] {
+    margin-right: 8px;
+    margin-bottom: 10px;
+}
