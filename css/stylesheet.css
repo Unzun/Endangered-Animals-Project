@@ -184,8 +184,10 @@ footer p {
 }
 
 /*Contact Page Edits*/
+
+/*Form Layout*/
 #contact-page form {
-    max-width: 600px;
+    max-width: 1000px;
     margin: 0 auto;
     background-color: #ffffff;
     padding: 25px;
