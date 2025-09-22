@@ -185,6 +185,28 @@ footer p {
 
 /*Contact Page CSS*/
 
+/* Positioning navbar*/
+#nav-contact {
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px 20px;
+}
+
+#nav-contact ul {
+    display: flex;
+    gap: 15px;
+    list-style: none;
+    margin: 0;
+}
+
+#nav-contact a {
+    text-decoration: none;
+    background-color: #4caf50;
+    color: white;
+    padding: 8px 16px;
+    border-radius: 5px;
+}
+
 /*Form Layout*/
 #contact-page form {
     max-width: 1000px; /* wil not respond now because of earlier CSS but can be used for desktop/laptop setup later */
