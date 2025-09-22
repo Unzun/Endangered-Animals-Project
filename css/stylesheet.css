@@ -187,7 +187,7 @@ footer p {
 
 /*Form Layout*/
 #contact-page form {
-    max-width: 1000px;
+    max-width: 1000px; /* wil not respond now because of earlier CSS but can be used for desktop/laptop setup later */
     margin: 0 auto;
     background-color: #ffffff;
     padding: 25px;
@@ -201,7 +201,7 @@ footer p {
     font-weight: bold;
 }
 
-/* Wrap each label-input pair in a flex container */
+/* Wrap each label-input pair in a flex container - in progress for placing text next to textbox */
 #contact-page .form-row {
     display: flex;
     align-items: center;
