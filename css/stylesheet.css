@@ -183,7 +183,7 @@ footer p {
     }
 }
 
-/*Contact Page Edits*/
+/*Contact Page CSS*/
 
 /*Form Layout*/
 #contact-page form {
@@ -199,6 +199,28 @@ footer p {
     display: block;
     margin-bottom: 5px;
     font-weight: bold;
+}
+
+/* Wrap each label-input pair in a flex container */
+#contact-page .form-row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+/* Label styling for inline layout */
+#contact-page .form-row label {
+    flex: 0 0 150px; /* fixed width for label */
+    margin-bottom: 0;
+}
+
+/* Input and textarea styling */
+#contact-page .form-row input[type="text"],
+#contact-page .form-row textarea {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
 }
 
 #contact-page form input[type="text"], form textarea {
