@@ -216,7 +216,7 @@ footer p {
 
 /*Form Layout*/
 #contact-page form {
-    max-width: 1000px; /* wil not respond now because of earlier CSS but can be used for desktop/laptop setup later */
+    max-width: 1000px; /* will not respond now because of earlier CSS but can be used for desktop/laptop setup later */
     margin: 0 auto;
     background-color: #ffffff;
     padding: 25px;
@@ -228,28 +228,6 @@ footer p {
     display: block;
     margin-bottom: 5px;
     font-weight: bold;
-}
-
-/* Wrap each label-input pair in a flex container - in progress for placing text next to textbox */
-#contact-page .form-row {
-    display: flex;
-    align-items: center;
-    margin-bottom: 20px;
-}
-
-/* Label styling for inline layout */
-#contact-page .form-row label {
-    flex: 0 0 150px; /* fixed width for label */
-    margin-bottom: 0;
-}
-
-/* Input and textarea styling */
-#contact-page .form-row input[type="text"],
-#contact-page .form-row textarea {
-    flex: 1;
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 6px;
 }
 
 #contact-page form input[type="text"], form textarea {
