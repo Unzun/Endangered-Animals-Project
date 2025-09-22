@@ -302,6 +302,10 @@ footer p {
     background-color: #d32f2f;
 }
 
-#main {
+#main1 {
+    text-align: center;
+}
+
+#main2 {
     text-align: center;
 }
