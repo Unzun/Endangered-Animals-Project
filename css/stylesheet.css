@@ -278,7 +278,7 @@ footer p {
 
 /* Green "Send" button */
 #contact-page form input[type="submit"][value="Send"] {
-    background-color: #228B22;
+    background-color: #154734;
     color: white;
 }
 
