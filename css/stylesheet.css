@@ -230,7 +230,7 @@ footer p {
     display: inline-block;
 }
 
-#table-nav a {
+#table-nav ul li a {
     color: #000000;
     text-decoration: none;
     font-size: 15px;
