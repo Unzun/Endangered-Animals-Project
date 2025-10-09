@@ -241,6 +241,14 @@ footer p {
     display: inline-block;
 }
 
+#contact-page body {
+    background-image: url(images/forest background.png);
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+}
+
 /*Form Layout*/
 #contact-page form {
     max-width: 1000px; /* will not respond now because of earlier CSS but can be used for desktop/laptop setup later */
