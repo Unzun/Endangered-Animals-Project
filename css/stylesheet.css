@@ -242,7 +242,7 @@ footer p {
 }
 
 #contact-page body {
-    background-image: url(images/forest background.png);
+    background-image: url("images/forest background.png");
     background-size: cover;
     background-position: center;
     margin: 0;
