@@ -339,6 +339,7 @@ footer p {
   display: flex;
   align-items: center;
   gap: 10px;
+  margin-bottom: 10px;  
 }
 
 .star-rating {
@@ -351,7 +352,7 @@ footer p {
 }
 
 .star-rating label {
-  font-size: 2.5rem;
+  font-size: 3rem;
   color: #ccc;
   cursor: pointer;
   transition: color 0.2s;
@@ -364,8 +365,4 @@ footer p {
 .star-rating label:hover,
 .star-rating label:hover ~ label {
   color: orange;
-}
-
-.button-row {
-  margin-bottom: 10rem; /* Adjust spacing as needed */
 }
