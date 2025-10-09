@@ -293,12 +293,12 @@ footer p {
 /* Submit and Reset buttons */
 #contact-page form input[type="submit"] 
 #contact-page form input[type="reset"] {
-    padding: 10px 20px;
-    font-weight: bold;
-    border: none;
-    border-radius: 8px;
-    cursor: pointer;
-    margin-right: 10px;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 8px;
+      font-weight: bold;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
 }
 
 /* Green "Send" button */
