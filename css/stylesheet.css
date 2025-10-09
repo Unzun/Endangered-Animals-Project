@@ -314,6 +314,12 @@ footer p {
 #contact-page form input[type="reset"][value="Reset Form"] {
     background-color: #840000;
     color: white;
+    padding: 10px 20px;
+    font-weight: bold;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-right: 10px;
 }
 
 #contact-page form input[type="reset"][value="Reset Form"]:hover {
