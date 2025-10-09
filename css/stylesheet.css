@@ -335,6 +335,12 @@ footer p {
   gap: 10px; /* adds space between buttons */
 }
 
+.rating-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
 .star-rating {
   direction: rtl; /* Right-to-left for intuitive star selection */
   display: inline-flex;
