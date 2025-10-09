@@ -365,3 +365,7 @@ footer p {
 .star-rating label:hover ~ label {
   color: orange;
 }
+
+.rating {
+  margin-bottom: 10rem; /* Adjust spacing as needed */
+}
