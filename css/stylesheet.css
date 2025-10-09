@@ -333,3 +333,28 @@ footer p {
   display: flex;
   gap: 10px; /* adds space between buttons */
 }
+
+.star-rating {
+  direction: rtl; /* Right-to-left for intuitive star selection */
+  display: inline-flex;
+}
+
+.star-rating input[type="radio"] {
+  display: none;
+}
+
+.star-rating label {
+  font-size: 2rem;
+  color: #ccc;
+  cursor: pointer;
+  transition: color 0.2s;
+}
+
+.star-rating input[type="radio"]:checked ~ label {
+  color: gold;
+}
+
+.star-rating label:hover,
+.star-rating label:hover ~ label {
+  color: orange;
+}
