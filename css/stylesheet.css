@@ -25,6 +25,10 @@ body {
     flex-direction: column;
 }
 
+main {
+    flex: 1;
+}
+
 /* Header styles */
 header {
     background-color: #746859;
@@ -241,7 +245,7 @@ footer p {
     display: inline-block;
 }
 
-#contact-page body {
+#contact-page {
     background-image: url("images/forest background.png");
     background-size: cover;
     background-position: center;
