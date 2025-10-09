@@ -327,3 +327,8 @@ footer p {
 #main2 {
     text-align: center;
 }
+
+.button-row {
+  display: flex;
+  gap: 10px; /* adds space between buttons */
+}
