@@ -308,10 +308,6 @@ footer p {
 #main2 {
     text-align: center;
 }
-#main3{
-    background-color: black;
-    flex: 1;
-}
 
 .button-row {
   display: flex;
@@ -335,8 +331,8 @@ footer p {
 }
 
 .star-rating label {
-  font-size: 3rem;
-  color: #ccc;
+  font-size: 4rem;
+  color: #bbb;
   cursor: pointer;
   transition: color 0.2s;
 }
