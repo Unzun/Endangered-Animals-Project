@@ -308,6 +308,10 @@ footer p {
 #main2 {
     text-align: center;
 }
+#main3{
+    background-color: #000;
+    flex: 1;
+}
 
 .button-row {
   display: flex;
